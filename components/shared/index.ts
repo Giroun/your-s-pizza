@@ -4,3 +4,6 @@ export { Title } from './title';
 export { Categories } from './categories';
 export { SortPopup } from './sort-popup';
 export { TopBar } from './top-bar';
+export { Filter } from './filter';
+export { ProductCard } from './product-card';
+export { ProductsGroupList } from './products-group-list';
